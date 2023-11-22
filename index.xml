@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://Youchsix.github.io/bk/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Youchsix.github.io/bk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>个人简介</title>
+      <link>https://Youchsix.github.io/bk/en/post/badges/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/en/post/badges/</guid>
+      <description>&lt;p&gt;Youchsix&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hugo 博客建站</title>
+      <link>https://Youchsix.github.io/bk/en/post/thumbnail/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/en/post/thumbnail/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>记忆中的家乡</title>
+      <link>https://Youchsix.github.io/bk/en/post/rendering-math-stuff/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/en/post/rendering-math-stuff/</guid>
+      <description>&lt;p&gt;李白&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Github 尝试!</title>
+      <link>https://Youchsix.github.io/bk/en/post/sketches/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/en/post/sketches/</guid>
+      <description>&lt;p&gt;Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vue2 cli安装</title>
+      <link>https://Youchsix.github.io/bk/en/post/toc/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/en/post/toc/</guid>
+      <description>&lt;p&gt;在创建项目之前需要先下载Node.js环境
+可以利用npm安装淘宝镜像的cnpm，示例代码如下。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;npm config set registry https://registry.npm.taobao.org&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>uniapp 网络请求</title>
+      <link>https://Youchsix.github.io/bk/en/post/markdown-syntax/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/en/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;在各个小程序平台运行时，网络相关的 API 在使用前需要配置域名白名单。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sketches!</title>
+      <link>https://Youchsix.github.io/bk/pt-br/post/sketechs/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/pt-br/post/sketechs/</guid>
+      <description>&lt;p&gt;Sketches são as visualizações na barra lateral do &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt;. As disponíveis no momento foram construídas usando &lt;a href=&#34;https://p5js.org/&#34;&gt;p5.js&lt;/a&gt; &amp;ndash; uma biblioteca de javascript para programação criativa.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thumbnail no post</title>
+      <link>https://Youchsix.github.io/bk/pt-br/post/thumbnail/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/pt-br/post/thumbnail/</guid>
+      <description>&lt;p&gt;Agora você pode adicionar thumbnails no seu post!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Callout shortcode</title>
+      <link>https://Youchsix.github.io/bk/en/post/callouts/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/en/post/callouts/</guid>
+      <description>&lt;p&gt;Check it out, &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; has callouts now!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shortcode para callouts</title>
+      <link>https://Youchsix.github.io/bk/pt-br/post/callouts/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/pt-br/post/callouts/</guid>
+      <description>&lt;p&gt;Olha só, &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; tem &lt;em&gt;callouts&lt;/em&gt; agora!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Índice</title>
+      <link>https://Youchsix.github.io/bk/pt-br/post/indice/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/pt-br/post/indice/</guid>
+      <description>&lt;p&gt;No &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; podemos usar a barra da esquerda para mostrar um índice do post!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Renderizando Matemática</title>
+      <link>https://Youchsix.github.io/bk/pt-br/post/renderizando-matematica/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/pt-br/post/renderizando-matematica/</guid>
+      <description>&lt;p&gt;Esse artigo mostra como configurar seu site com o &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; para mostrar matemática formatada com $\LaTeX$.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://Youchsix.github.io/bk/en/about/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/en/about/</guid>
+      <description>heyo is a responsive, minimalist, and pretty theme built for hugo, based on Alexander Bilz&amp;rsquo;s Anatole.
+Features Cover images Pretty visualizations in the sidebar Table of Contents in the sidebar Callout shortcode Badges shortcode Dark theme Support for custom CSS and JS Multilingual support (english and brazilian portuguese, for now) Open Graph support Soon™ Quickstart To try the exampleSite you just need to:
+git clone https://github.com/LucasVadilho/heyo-hugo-theme heyo cd heyo/exampleSite &amp;amp;&amp;amp; hugo server --themesDir .</description>
+    </item>
+    <item>
+      <title>Insígnias</title>
+      <link>https://Youchsix.github.io/bk/pt-br/post/badges/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/pt-br/post/badges/</guid>
+      <description>&lt;p&gt;Esse artigo mostra como adicionar e customizar insígnias (&lt;em&gt;badges&lt;/em&gt;) em seus posts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>https://Youchsix.github.io/bk/pt-br/about/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/pt-br/about/</guid>
+      <description>heyo é um tema responsivo, minimalista e bonito para hugo. Ele foi baseado no Anatole de Alexander Bilz.
+Features Imagens de capa Visualizações in the sidebar Índices in the sidebar Callout shortcode Badges shortcode Tema escuro Suporte para CSS e JS customizados Suporte para Multilinguas (inglês e pt-br, por enquanto) Open Graph support Soon™ Quickstart Para testar o exampleSite é só:
+git clone https://github.com/LucasVadilho/heyo-hugo-theme heyo cd heyo/exampleSite &amp;amp;&amp;amp; hugo server --themesDir .</description>
+    </item>
+  </channel>
+</rss>

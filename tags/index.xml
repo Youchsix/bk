@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>https://Youchsix.github.io/bk/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Youchsix.github.io/bk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Youchsix</title>
+      <link>https://Youchsix.github.io/bk/tags/youchsix/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/tags/youchsix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>个人介绍</title>
+      <link>https://Youchsix.github.io/bk/tags/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/tags/%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>shortcodes</title>
+      <link>https://Youchsix.github.io/bk/tags/shortcodes/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>theme</title>
+      <link>https://Youchsix.github.io/bk/tags/theme/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/tags/theme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>github</title>
+      <link>https://Youchsix.github.io/bk/tags/github/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/tags/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>vue cli</title>
+      <link>https://Youchsix.github.io/bk/tags/vue-cli/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/tags/vue-cli/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>creative coding</title>
+      <link>https://Youchsix.github.io/bk/tags/creative-coding/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/tags/creative-coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>javascript</title>
+      <link>https://Youchsix.github.io/bk/tags/javascript/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>p5js</title>
+      <link>https://Youchsix.github.io/bk/tags/p5js/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://Youchsix.github.io/bk/tags/p5js/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

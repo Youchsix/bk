@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark"><head>
+    <title>记忆中的家乡 · Youch Six</title>
+    <meta charset="utf-8">
+    
+    <meta name="generator" content="Hugo 0.120.4">
+    <meta property="og:title" content="记忆中的家乡" />
+<meta property="og:description" content="How to configure Math Typesetting in heyo" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://Youchsix.github.io/bk/en/post/rendering-math-stuff/" /><meta property="og:image" content="https://Youchsix.github.io/bk/images/profile.png"/><meta property="article:section" content="en" />
+<meta property="article:published_time" content="2023-11-20T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-11-20T00:00:00+00:00" /><meta property="og:site_name" content="I&#39;m Youch Six" />
+
+
+
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="description" content="Call me Jane">
+    
+    
+    
+    <link rel="stylesheet" type="text/css" href="https://Youchsix.github.io/bk/css/style.min.48f65fc71bbd394bf21da9f76af8c2ceb4149c8f36e8e9396e9b01d60392e207.css" integrity="sha256-SPZfxxu9OUvyHan3avjCzrQUnI826Ok5bpsB1gOS4gc=" crossorigin="anonymous" type="text/css">
+
+    
+    
+    
+    <script type="text/javascript" src="https://Youchsix.github.io/bk/js/heyo-header.min.a3fa728a9f57833a31dfb45c48caaf1e4890c8c97f07bd7133fc2359745edb5d.js" integrity="sha256-o/pyip9Xgzox37RcSMqvHkiQyMl/B71xM/wjWXRe210=" crossorigin="anonymous"></script>
+
+    
+    
+    <link rel="stylesheet" type="text/css" href="https://Youchsix.github.io/bk/css/fonts.d5b213a8a0d81c895406ec26a5e679d5da547a46e1c4ebb0695ff83ae98025fb.css" integrity="sha256-1bITqKDYHIlUBuwmpeZ51dpUekbhxOuwaV/4OumAJfs=" crossorigin="anonymous">
+
+    
+    
+    
+    <script type="text/javascript" src="https://Youchsix.github.io/bk/js/sidebar-toc.min.788b639e2ec681549740b90b3b865d5f9e1789e3ca9c06ccc45d65655434c954.js" integrity="sha256-eItjni7GgVSXQLkLO4ZdX54XiePKnAbMxF1lZVQ0yVQ=" crossorigin="anonymous"></script>
+
+    
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js" defer></script>
+
+        
+        
+        <script type="text/javascript" src="https://Youchsix.github.io/bk/js/sketch-graph.26b92ed9317bdc6f35642d588bdf3283f40998846e01cf4bee22a126907fbf3b.js" integrity="sha256-Jrku2TF73G81ZC1Yi98yg/QJmIRuAc9L7iKhJpB/vzs=" crossorigin="anonymous" defer></script>
+
+        
+        
+        <script type="text/javascript" src="https://Youchsix.github.io/bk/js/sketch-digitalRain.af8a7b5c4428cc62d5bf49bf2698d4112c2459ee0c22c1c753ab304aef69888a.js" integrity="sha256-r4p7XEQozGLVv0m/JpjUESwkWe4MIsHHU6swSu9piIo=" crossorigin="anonymous" defer></script>
+
+        
+        
+        <script type="text/javascript" src="https://Youchsix.github.io/bk/js/sketch-circleBrushStrokes.fe8fc3ee52e1d90e9236be8c36a27711efa024beb4da304829f95dfbb61d6e84.js" integrity="sha256-/o/D7lLh2Q6SNr6MNqJ3Ee&#43;gJL602jBIKfld&#43;7YdboQ=" crossorigin="anonymous" defer></script>
+
+        
+        
+        <script type="text/javascript" src="https://Youchsix.github.io/bk/js/sketch-meta.71b5202ea881c86ac19e4b55414656a5444204a4ba08ff7368a5aa99c0a60949.js" integrity="sha256-cbUgLqiByGrBnktVQUZWpURCBKS6CP9zaKWqmcCmCUk=" crossorigin="anonymous" defer></script>
+
+        
+        
+        <script type="text/javascript" src="https://Youchsix.github.io/bk/js/sidebar-sketch.min.2e95015880993ef9abcad62d111decea22406616931bce193254bf8af2339953.js" integrity="sha256-LpUBWICZPvmrytYtER3s6iJAZhaTG84ZMlS/ivIzmVM=" crossorigin="anonymous" defer></script>
+    
+    
+    
+    <link rel="shortcut icon" href="https://Youchsix.github.io/bk/favicons/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://Youchsix.github.io/bk/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://Youchsix.github.io/bk/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://Youchsix.github.io/bk/favicons/favicon-16x16.png">
+    <link rel="canonical" href="https://Youchsix.github.io/bk/en/post/rendering-math-stuff/">
+    
+    
+    
+    
+    
+
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://Youchsix.github.io/bk/images/profile.png"/>
+
+<meta name="twitter:title" content="记忆中的家乡"/>
+<meta name="twitter:description" content="How to configure Math Typesetting in heyo"/>
+
+</head><body>
+        <div class="main">
+            <div class="page-top">
+    <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false" >
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    <ul class="nav" id="navMenu">
+        
+        
+        <li class="grow"></li>
+        
+            
+                <li><a href="https://Youchsix.github.io/bk/pt-br/" title="pt-br">pt-br</a></li>
+            
+        
+        <li>
+            <a class="theme-switch" title="Switch Theme">
+                <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+            </a>
+        </li>
+    </ul>
+</div>
+            <div class="sidebar" id="sidebar">
+    <div class="top-toc">
+        <img src="https://Youchsix.github.io/bk/images/profile.png" alt="profile picture">
+        
+        <a href="/">I&#39;m Youch Six</a>
+    </div>
+    
+    <div class="middle-sidebar grow" id="middle-sidebar">
+        
+            
+            
+                
+            
+
+            
+                
+                
+                
+                
+                <div
+                    id="sidebar-sketch"
+                    data-sketch="Digital Rain"
+                    data-sketch-starting="{
+    &#34;kind&#34;: &#34;katakana&#34;,
+    &#34;nStreams&#34;: 10
+  }"
+                    data-sketch-show-hover="true"></div>
+            
+        
+    </div>
+
+    <div class="footer">
+        <ul class="social-links">
+            
+            <li>
+                <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" rel="me" aria-label="Linkedin">
+                    <i class="fab fa-linkedin" aria-hidden="true"></i>
+                </a>
+            </li>
+            
+            <li>
+                <a href="https://github.com/LucasVadilho/heyo-hugo-theme" target="_blank" rel="noopener noreferrer" rel="me" aria-label="GitHub">
+                    <i class="fab fa-github" aria-hidden="true"></i>
+                </a>
+            </li>
+            
+            <li>
+                <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" rel="me" aria-label="instagram">
+                    <i class="fab fa-instagram" aria-hidden="true"></i>
+                </a>
+            </li>
+            
+            <li>
+                <a href="mailto:lucas.vadilho@gmail.com" target="_blank" rel="noopener noreferrer" rel="me" aria-label="e-mail">
+                    <i class="fas fa-envelope" aria-hidden="true"></i>
+                </a>
+            </li>
+            
+        </ul>
+
+        <div class="by">by Youch Six <b>·</b> 2023</div>
+    </div>
+</div>
+            <div class="content">
+<div class="post">
+    
+    <div class="post-title">
+        <h1>记忆中的家乡</h1>
+        
+    </div>
+    <div class="post-content">
+        <p>李白</p>
+<div class="callout">
+    <div class="callout-header" style="background: linear-gradient(95deg, #9198e5, #e66465);">
+        <div class="callout-icon"><i class=fas&#32;fa-atom></i></div>
+        <div class="callout-title">早发白帝城</div>
+    </div>
+    
+    <div class="callout-body">
+        <div>朝辞白帝彩云间,千里江陵一日还,两岸猿声啼不住,轻舟已过万重山</div>
+    </div>
+    
+</div>
+
+<h2 id="奉节">奉节</h2>
+<p>奉节县地处长江三峡库区腹心，至今已有2300多年的建制史，是历代路、府、州、郡治所在地。公元649年，唐太宗李世民为旌表诸葛亮“托孤寄命，临大节而不可夺”，忠君爱国、奉公守节的品质，赐名为“奉节”，沿用至今。奉节是长江三峡的起点，千古诗词胜迹白帝城傲立峡口，中华山水之门夔门雄踞两岸，8公里瞿塘峡宛若画卷，这里还是大家熟知的第五套十元人民币的背景图案。奉节山雄川秀、处处入画，水灵石奇，步步成景，世界上最大的天坑、最长的地缝、最长的暗河均在这里。</p>
+<h2 id="历史沿革">历史沿革</h2>
+<p>奉节历史悠久，在6万年前就有先民在此劳动生息。6000多年前，境内人民就与三峡地区、鄂西南和湘北地区人民一起共同创造出闻名全国的大溪文化。奉节据荆楚上游，控巴蜀东门，为兵家必争之地。从汉代起至20世纪初，奉节为巴东郡、巴州、信州、夔州、夔州府和江关都尉、三巴校尉等治地。一直为蜀东政治、经济、文化和军事中心。</p>
+<p>　　夏商时，今奉节为所谓荆、梁2州之域。奉节古称鱼复，秦惠文王更元十一年（前314年），秦于巴国之地置巴郡，鱼复县随巴郡同置。东汉建武元年（25年）。公孙述据蜀称帝，在瞿塘峡侧山头筑白帝城。蜀汉章武二年（222年），刘备夷陵之战后败退白帝城，改鱼复为永安县。西晋太康元年（280年），恢复鱼复县名。西魏废帝三年（554年），改鱼复为人复。唐贞观二十三年（649年），为尊崇诸葛亮奉刘备“托孤寄命，临大节而不可夺”的品质，改人复为奉节。明末清初，李自成、张献忠起义军多次转战夔州，张献忠死后，起义军余部组成“夔东十三家”，与清军大战于川东。战乱延续多年，人民迭遭兵焚、饥馑、病疫，出现“村不见一舍，路不见一人”的荒凉景象。清康熙年间，采取轻徭薄赋、免其编审、永不加赋等措施招民垦荒，外省贫民纷纷迁移入川，奉节人口得到较快的恢复和发展。至嘉庆元年（1796年），奉节增添男女共118854丁口。这就是奉节历史上规模最大的一次移民，而现今大多数奉节人溯祖寻源都是外省移民的后代。康熙六年（1667年），裁大宁县（今巫溪县）并入奉节县，雍正七年（1729年），复设置大宁县。宣统三年（1911年）十月初六，奉节县人民响应辛亥革命，宣布独立。民国24年（1935年），川政统一，四川实行行政督察区制，原定第九行政督察区署设在奉节，后改设在万县。</p>
+<p>　　1949年12月3日，奉节和平解放。12月19日，成立奉节县人民政府。1950年起奉节属四川省万县专区，1968年属万县地区，1992年属万县市。1997年3月随万县市隶重庆市，后直属重庆市。</p>
+    </div>
+    <div class="post-footer">
+        <div class="info">
+            <span class="separator"><a class="category" href="/bk/categories/%E5%A5%89%E8%8A%82/">奉节</a></span>
+            <span class="separator"><a class="tag" href="/bk/tags/youchsix/">Youchsix</a></span>
+        </div>
+        
+
+
+    </div>
+    
+</div>
+
+                <div class="grow"></div>
+                <div class="built-with">
+    Built with <a href="https://gohugo.io/">Hugo</a> <b>·</b> Using the <a href="https://github.com/LucasVadilho/heyo-hugo-theme">heyo</a> theme
+</div>
+            </div>
+        </div>
+        
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.1/css/all.min.css" integrity="sha512-3M00D/rn8n+2ZVXBO9Hib0GKNpkm8MSUU/e2VNthDyBYxKWG+BftNYYcuEjXlyrSO637tidzMBXfE7sQm0INUg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<script type="text/javascript">
+            
+            
+            window.MathJax = {
+                tex: {
+                    inlineMath: [['$', '$'], ['\\(', '\\)']],
+                    displayMath: [['$$','$$'], ['\\[', '\\]']]
+                },
+                svg: {
+                    scale: 1.25,
+                }
+            };
+        </script><script defer type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.1.0/es5/tex-mml-svg.min.js" integrity="sha512-/mL9Gs6E5Bz6NtPOr9eY&#43;T8IIdJbo2JL3TudApzFFelwBXEc3TeFLU6kPq122TJROv7jkktuBRkz5h8vGzrsyA==" crossorigin="anonymous"></script>
+    </body>
+</html>
